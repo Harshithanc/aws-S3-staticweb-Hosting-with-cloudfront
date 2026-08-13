@@ -46,21 +46,6 @@ Accessed the S3 static website endpoint through a web browser.
 
 After the distribution was deployed, I accessed the website using the **CloudFront distribution domain name**.
 
-## ⚠️ Challenges I Faced
-
-* Images were not loading initially.
-* The `images` folder was missing from the S3 bucket.
-* Encountered a `404 NoSuchKey` error for `index.html`.
-* Had issues with incorrect file paths and folder structure.
-
-## ✅ How I Fixed the Issues
-
-* Uploaded the missing `images` folder.
-* Verified the S3 folder and object structure.
-* Corrected file paths in the HTML files.
-* Verified the bucket policy and public access settings.
-* Checked that `index.html` was correctly uploaded.
-
 ## 💡 Key Learnings
 
 * Learned how to host a static website using **Amazon S3**.
@@ -75,14 +60,6 @@ After the distribution was deployed, I accessed the website using the **CloudFro
 * Amazon S3
 * Amazon CloudFront
 
-## 🚀 Future Improvements
-
-* Configure HTTPS using CloudFront.
-* Use **Origin Access Control (OAC)**.
-* Keep the S3 bucket private and allow access through CloudFront.
-* Automate deployment using GitHub Actions.
-
----
 
 ☁️ **Learning by building — AWS & DevOps**
 
