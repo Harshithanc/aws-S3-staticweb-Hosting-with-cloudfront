@@ -86,6 +86,7 @@ After the distribution was deployed, I accessed the website using the **CloudFro
 
 ☁️ **Learning by building — AWS & DevOps**
 
+<img width="1629" height="649" alt="Screenshot from 2026-08-13 17-27-55" src="https://github.com/user-attachments/assets/deca3c70-2b04-40bc-9afe-e8de5825e4c0" />
 
 
 
