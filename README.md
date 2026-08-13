@@ -87,8 +87,18 @@ After the distribution was deployed, I accessed the website using the **CloudFro
 ☁️ **Learning by building — AWS & DevOps**
 
 <img width="1629" height="649" alt="Screenshot from 2026-08-13 17-27-55" src="https://github.com/user-attachments/assets/deca3c70-2b04-40bc-9afe-e8de5825e4c0" />
-
-
+<img width="1629" height="649" alt="Screenshot from 2026-08-13 17-28-13" src="https://github.com/user-attachments/assets/51402c8b-7eb2-493e-8555-783ce23a7da4" />
+<img width="1650" height="690" alt="Screenshot from 2026-08-13 17-29-20" src="https://github.com/user-attachments/assets/c92cd82c-8eda-4d9d-93dd-215a8ab054a7" />
+<img width="1650" height="690" alt="Screenshot from 2026-08-13 17-30-18" src="https://github.com/user-attachments/assets/29d80813-b3e7-44e3-a666-4b8baea72c05" />
+<img width="1650" height="690" alt="Screenshot from 2026-08-13 17-32-00" src="https://github.com/user-attachments/assets/0625874f-7612-4fa8-8b41-f6e30c0ae8d4" />
+<img width="1628" height="493" alt="Screenshot from 2026-08-13 17-34-46" src="https://github.com/user-attachments/assets/678459f1-0383-459a-b079-9c9f2358ce48" />
+<img width="1831" height="1014" alt="Screenshot from 2026-08-13 17-36-06" src="https://github.com/user-attachments/assets/025e1271-2d7f-4cdc-aca1-2aa461e02a55" />
+<img width="1635" height="393" alt="Screenshot from 2026-08-13 17-36-31" src="https://github.com/user-attachments/assets/a21dd15d-3d01-4457-8e49-ef602c39e1c3" />
+<img width="1704" height="852" alt="Screenshot from 2026-08-13 17-37-36" src="https://github.com/user-attachments/assets/ddc72ca9-a737-47da-9d0a-6d5aa7e5c30f" />
+<img width="1703" height="392" alt="Screenshot from 2026-08-13 17-38-28" src="https://github.com/user-attachments/assets/0c7d26a6-22b3-41cb-ae25-90c7b05abc8d" />
+<img width="1920" height="1080" alt="Screenshot from 2026-08-13 17-39-02" src="https://github.com/user-attachments/assets/b17d2708-6882-48cb-86fe-0389bce54a63" />
+<img width="1920" height="1080" alt="Screenshot from 2026-08-13 17-43-47" src="https://github.com/user-attachments/assets/85c6c63e-3463-407d-a9ef-5be7d526fd34" />
+<img width="1703" height="392" alt="Screenshot from 2026-08-13 17-45-15" src="https://github.com/user-attachments/assets/9817429f-1e3d-45c2-8043-e092ec29431f" />
 
 
 
